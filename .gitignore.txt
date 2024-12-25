@@ -1,0 +1,4 @@
+new_data/
+raw_data/
+*.jpg
+*.txt
